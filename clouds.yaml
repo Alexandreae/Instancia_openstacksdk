@@ -1,0 +1,9 @@
+clouds:
+  cloudq:
+    region_name: RegionOne
+    auth:
+      domain_name: 'admin_domain'
+      username: 'admin'
+      password: reece1Ohwahghae8
+      project_name: 'admin'
+      auth_url: 'http://192.168.15.14:5000/v3'

@@ -1,8 +1,0 @@
-clouds:
- cloudq:
-   region_name: Dallas
-   auth:
-     username: 'cloduq'
-     password: cloudq
-     project_name: 'cloudq'
-     auth_url: 'https://identity.example.com'
